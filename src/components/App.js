@@ -21,6 +21,7 @@ class App extends React.Component {
 
     return (
       <div>
+        <h1>Goals-Todos: React Redux Application</h1>
         <ConnectedTodos />
         <ConnectedGoals />
       </div>

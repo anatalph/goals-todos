@@ -30,7 +30,7 @@ class Todos extends React.Component {
 
     return (
       <div>
-        <h1>Todo List</h1>
+        <h2>Todo</h2>
         <input
           type="text"
           placeholder="Add Todo"
