@@ -1,1 +1,1 @@
-goals-todos.netlify.com
+This project was bootstrapped with Create React App.
